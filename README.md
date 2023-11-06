@@ -1,3 +1,4 @@
+# This is a repo
 # SkoolV2 Archive
 > This is our old version. Use [version 3/Polaris](https://github.com/Skoolgq/Polaris) now.
 dsc.gg/skool
