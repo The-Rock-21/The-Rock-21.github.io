@@ -10,6 +10,7 @@ dsc.gg/skool
 ## Links
 * https://skool.gay
 * https://peeloffyour.skin
+* This is my froked link: https://the-rock-21.github.io/
 * Join our [Discord](https://dsc.gg/skool) for more...
 
 ## Quick Deploy
